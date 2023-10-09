@@ -56,4 +56,4 @@ to get the benifit of both the younger and adult audience alike.
 6. It is also worth noting that 2 directors among the 4 create animated movies and TV shows. More focus on
 better animated content would also increase viewership mainly among children.
 
-<i> Jupyter Notebook <a href = https://github.com/adarshvinayak/Netflix-EDA/blob/main/doc.pdf> Netflix </a>
+<i> Jupyter Notebook :<a href = https://github.com/adarshvinayak/Netflix-EDA/blob/main/doc.pdf> Netflix </a>
