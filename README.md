@@ -32,3 +32,26 @@ The dataset provided to you consists of a list of all the TV shows/movies availa
 </ol>
 
 ### Reccomendations derived from the insights
+
+1. Over 69% of the netflix catalog are movies - movies seem to be trending
+
+2. Data shows that over 2000 new content is uploaded on the 1st of every month, and over 600 during mid
+month. Hence the recommended day to upload new content is the first of every month
+
+3. The months in which content is uploaded seems to be stable throughout and mostly dependendent on the
+release, however it is not recommended to upload content on the month of February as it showed the
+lowest addition rate.
+
+4. The top cast chart seems to be dominated by Indian actors such as Anupam Kher and Om Puri, however
+the majority of releases are seen in the United States. Netflix should focus on releasing more content more
+frequently in India.
+
+5. The top 3 directors produce kids and comedy content, however the most number of content added are
+International Movies, with over 2700 added, where as comedy is only at the 3rd position with a count of
+1674 and kids content way below at around 600. Also according to the ratings, over 50% of the content is
+for audiences 15 years and above. Hence it is highly recommended that more kids friendly content be
+added to the platform to increase viewership. Netflix could also focus on adding kid friendly comedy shows
+to get the benifit of both the younger and adult audience alike.
+
+6. It is also worth noting that 2 directors among the 4 create animated movies and TV shows. More focus on
+better animated content would also increase viewership mainly among children.
