@@ -31,7 +31,7 @@ The dataset provided to you consists of a list of all the TV shows/movies availa
   <li>Data Analysis : Finding patterns and trends through value counts, unique attributes, charts and plots</li>
 </ol>
 
-### Reccomendations derived from the insights
+### Recommendations derived from the insights
 
 1. Over 69% of the netflix catalog are movies - movies seem to be trending
 
